@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+/* display inline */
+/* limitado, elementos lado a lado, gosta de dividir espaço lateral */
+/* margin, padding etc n funciona */
+
 main {
     border: 2px solid red;
     text-align: center;
